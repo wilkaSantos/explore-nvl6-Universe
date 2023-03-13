@@ -1,0 +1,27 @@
+.universePage{
+    background-image: url('../image/img_universe.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    color: var(--fc-base);
+    font-family: var(--ff-base);
+
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 7.2rem;
+}
+
+.universeTitle{
+    margin-bottom: 2rem;
+}
+
+.universeText{
+    font-size: 1.8rem;
+    line-height: 160%;
+    text-align: justify;
+
+    width: 68rem;
+    margin-bottom: 1.3rem;
+
+}

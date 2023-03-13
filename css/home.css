@@ -1,0 +1,43 @@
+.homePage{
+    background-image: url('../image/img_home.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    color: var(--fc-base);
+    font-family: var(--ff-base);
+
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.homeTitle{
+    line-height: 125%;
+}
+
+.buttonPlusInformation{
+    width: 20rem;
+    height: 4.8rem;
+    padding: 1.2rem 3.2rem;
+    margin-top: 2.4rem;
+    cursor: pointer;
+
+    font-size: 1.4rem;
+    line-height: 2.4rem;
+    text-transform: uppercase;
+    
+    color: var(--fc-base);
+    font-family: var(--ff-base);
+
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: .5rem;
+
+    transition: all .3s linear;
+}
+
+.buttonPlusInformation:hover{
+    background-color: var(--bg-buttonSelected);
+    color: var(--fc-buttonSelected);
+}
