@@ -37,8 +37,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Desenvolver uma aplicação chamada "SPA Universe", um site para navegar utilizando as tecnologias e conceitos aprendidos como: SPA, mapeamento de rotas, orientação a objetos.
 
-- [Visite o projeto]()
-
 <br>
 ## 🔖 Layout
 
